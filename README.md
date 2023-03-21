@@ -3,7 +3,11 @@
 
 This is a shopping cart web application built with Vite, React, and TypeScript. It uses the Context API for state management and allows users to add items to a cart, view the cart, delete products, and increase/decrease the quantity of products.
 
+
+
 ## Getting Started
+
+- live Demo: https://gigaberdzenishvili.github.io/ShoppingCart-React-TypeScript/
 
 To get started with this project, you can follow these steps:
 
